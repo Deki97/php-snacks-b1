@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.allowed {
+    color: green;
+}
+
+.denied {
+    color: red;
+}
